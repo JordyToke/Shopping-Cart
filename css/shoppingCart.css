@@ -1,0 +1,7 @@
+#products {
+    display: flex;
+    background-color: #f1f1f1;
+}
+.product {
+    width: 128px;
+}
